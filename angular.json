@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "listaTarefas"
+    }
+  },
+  "defaultProject": "listaTarefas",
+  "cli": {
+    "analytics": "10dfcc9d-e789-4f9f-9bf9-05b18f5464e3"
+  }
 }
